@@ -7,7 +7,9 @@ This repository provides the implementation used for studying fish-like robotic 
 The codebase currently includes the baseline control framework, simulation environment, training pipeline, parallel execution modules, LSTM-related network components, illustrative framework figures, and demo results.
 
 ---
-
+<p align="center">
+  <img src="cover.png" width="500">
+</p>
 ## Overview
 
 The goal of this project is to train and evaluate fish-like locomotion controllers in CFD environments with obstacle-induced wakes. In particular, the repository focuses on how robotic swimmers interact with cylinder-generated vortical flow structures and how control policies can be learned through CFD-coupled reinforcement learning.
