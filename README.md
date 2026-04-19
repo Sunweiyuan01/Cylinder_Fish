@@ -49,12 +49,6 @@ Typical contents may include:
 - videos or image sequences for qualitative comparison.
 
 This folder is intended to help readers quickly understand the practical effect of the control framework.
-
-### Control performance
-[![Control Demo](demo_cover.png)](demo.mp4)
-
-### Experimental lateral-line acquisition
-[![Lateral-Line Demo](demo2_cover.png)](demo2.mp4)
 ---
 
 ## Repository structure
